@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/yaxu/mrid/main/",
-  "gumki": [
+  "mridangam_gumki": [
     "norm_sounds/gumki/gumki2-3.wav",
     "norm_sounds/gumki/gumki2-7.wav",
     "norm_sounds/gumki/gumki2-6.wav",
@@ -16,7 +16,7 @@
     "norm_sounds/gumki/gumki-3.wav",
     "norm_sounds/gumki/gumki2-1.wav"
   ],
-  "ka": [
+  "mridangam_ka": [
     "norm_sounds/ka/ka2-4.wav",
     "norm_sounds/ka/ka2-2.wav",
     "norm_sounds/ka/ka2-1.wav",
@@ -30,7 +30,7 @@
     "norm_sounds/ka/ka2-3.wav",
     "norm_sounds/ka/ka-3.wav"
   ],
-  "nam": [
+  "mridangam_nam": [
     "norm_sounds/nam/nam2-1.wav",
     "norm_sounds/nam/nam2-3.wav",
     "norm_sounds/nam/nam-3.wav",
@@ -40,7 +40,7 @@
     "norm_sounds/nam/nam2-4.wav",
     "norm_sounds/nam/nam-1.wav"
   ],
-  "ta": [
+  "mridangam_ta": [
     "norm_sounds/ta/ta-3.wav",
     "norm_sounds/ta/ta2-2.wav",
     "norm_sounds/ta/ta-2.wav",
@@ -51,7 +51,7 @@
     "norm_sounds/ta/ta2-5.wav",
     "norm_sounds/ta/ta-1.wav"
   ],
-  "ki": [
+  "mridangam_ki": [
     "norm_sounds/ki/ki2-3.wav",
     "norm_sounds/ki/ki2-1.wav",
     "norm_sounds/ki/ki-2.wav",
@@ -60,7 +60,7 @@
     "norm_sounds/ki/ki2-2.wav",
     "norm_sounds/ki/ki-3.wav"
   ],
-  "dhin": [
+  "mridangam_dhin": [
     "norm_sounds/dhin/dhin2-3.wav",
     "norm_sounds/dhin/dhin-2.wav",
     "norm_sounds/dhin/dhin2-5.wav",
@@ -70,7 +70,7 @@
     "norm_sounds/dhin/dhin-1.wav",
     "norm_sounds/dhin/dhin2-1.wav"
   ],
-  "na": [
+  "mridangam_na": [
     "norm_sounds/na/na-6.wav",
     "norm_sounds/na/na2-5.wav",
     "norm_sounds/na/na-3.wav",
@@ -84,7 +84,7 @@
     "norm_sounds/na/na-1.wav",
     "norm_sounds/na/na2-4.wav"
   ],
-  "chaapu": [
+  "mridangam_chaapu": [
     "norm_sounds/c/chaapu-3.wav",
     "norm_sounds/c/chaapu2-9.wav",
     "norm_sounds/c/chaapu2-4.wav",
@@ -99,7 +99,7 @@
     "norm_sounds/c/chaapu2-7.wav",
     "norm_sounds/c/chaapu-2.wav"
   ],
-  "dhum": [
+  "mridangam_dhum": [
     "norm_sounds/dhum/dhum-1.wav",
     "norm_sounds/dhum/dhum2-3.wav",
     "norm_sounds/dhum/dhum2-1.wav",
@@ -108,7 +108,7 @@
     "norm_sounds/dhum/dhum-3.wav",
     "norm_sounds/dhum/dhum2-4.wav"
   ],
-  "ardha": [
+  "mridangam_ardha": [
     "norm_sounds/ac/ardha-chaapu2-3.wav",
     "norm_sounds/ac/ardha-chaapu2-14.wav",
     "norm_sounds/ac/ardha-chaapu2-2.wav",
@@ -130,7 +130,7 @@
     "norm_sounds/ac/ardha-chaapu2-8.wav",
     "norm_sounds/ac/ardha-chaapu-1.wav"
   ],
-  "thom": [
+  "mridangam_thom": [
     "norm_sounds/thom/thom2-3.wav",
     "norm_sounds/thom/thom-2.wav",
     "norm_sounds/thom/thom-3.wav",
@@ -139,7 +139,7 @@
     "norm_sounds/thom/thom2-2.wav",
     "norm_sounds/thom/thom2-1.wav"
   ],
-  "dhi": [
+  "mridangam_dhi": [
     "norm_sounds/dhi/dhi-3.wav",
     "norm_sounds/dhi/dhi2-4.wav",
     "norm_sounds/dhi/dhi2-1.wav",
@@ -148,7 +148,7 @@
     "norm_sounds/dhi/dhi2-2.wav",
     "norm_sounds/dhi/dhi-2.wav"
   ],
-  "tha": [
+  "mridangam_tha": [
     "norm_sounds/tha/tha2-3.wav",
     "norm_sounds/tha/tha2-2.wav",
     "norm_sounds/tha/tha2-4.wav",
