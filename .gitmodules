@@ -10,3 +10,9 @@
 [submodule "tidal-drum-machines"]
 	path = tidal-drum-machines
 	url = https://github.com/geikha/tidal-drum-machines.git
+[submodule "usu-drumkit"]
+	path = uzu-drumkit
+	url = https://github.com/tidalcycles/uzu-drumkit.git
+[submodule "uzu-wavetables"]
+	path = uzu-wavetables
+	url = https://github.com/tidalcycles/uzu-wavetables.git
